@@ -6,10 +6,11 @@
 /*   By: aahrach <aahrach@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/26 10:20:47 by aahrach           #+#    #+#             */
-/*   Updated: 2023/06/26 11:06:58 by aahrach          ###   ########.fr       */
+/*   Updated: 2023/06/26 16:36:29 by aahrach          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "microshell.h"
 #include <string.h>
 #include <unistd.h>
 #include <stdlib.h>
